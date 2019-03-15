@@ -17,4 +17,4 @@ Entered some burgers and devoured them.
 ## Links
 
 - Deployment page: https://cvanglee.github.io/GifTastic/
-- Repository: https://github.com/cvanglee/GifTastic
+- Repository: https://github.com/cvanglee/burger
