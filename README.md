@@ -1,4 +1,4 @@
-# burger
+# Burger
 The user enters the name of a burger and posts it to the left of the page.  The user can then click the devour button and the burger will be moved over to the eaten burger side on the right.
 
 ## Installing / Getting started
@@ -16,5 +16,5 @@ Entered some burgers and devoured them.
 
 ## Links
 
-- Deployment page: https://cvanglee.github.io/GifTastic/
+- Deployment page: https://cl-burger-eat.herokuapp.com/
 - Repository: https://github.com/cvanglee/burger
