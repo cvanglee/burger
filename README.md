@@ -7,7 +7,7 @@ This application doesn't require any other installation for a user.
 
 ### Initial Configuration
 
-Before starting development of this application, we needed npm install .
+Before starting development of this application, I needed to npm install express and express-handlebars.  I needed to create the database in mysql too.
 
 
 ## Running the tests
