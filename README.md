@@ -12,7 +12,7 @@ Before starting development of this application, I needed to npm install express
 
 ## Running the tests
 
-The page says enter a country that starts with a C, but you can really enter anything and it will search it for your.  
+Entered some burgers and devoured them. 
 
 ## Links
 
